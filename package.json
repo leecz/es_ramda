@@ -1,0 +1,16 @@
+{
+  "name": "es_ramda",
+  "version": "0.0.1",
+  "description": "es6 ramda",
+  "main": "index.js",
+  "author": "lichengzhi <chengzhilee2@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "webpack": "^3.0.0"
+  },
+  "scripts": {
+    "test": "mocha test/**/**.spec.js"
+  }
+}
